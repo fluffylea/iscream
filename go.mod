@@ -1,3 +1,3 @@
-module awesomeProject
+module iscream
 
 go 1.22
